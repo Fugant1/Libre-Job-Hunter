@@ -1,4 +1,4 @@
-# Libre-Job-Hunting
+# Libre-Job-Hunter
 Open-Source Platform to auto apply to job roles for free.
 
 They automated the selection, we automated the apply.
